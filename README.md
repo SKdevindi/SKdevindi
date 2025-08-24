@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaveesha Devindi</h1>
+<h3 align="center">Undergraduate| Faculty of Computing| Sabaragamuwa University of Sri Lanka Aspiring Software Engineer</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skdevindi&label=Profile%20views&color=0e75b6&style=flat" alt="skdevindi" /> </p>
 
 - 🌱 I’m currently learning **Java**
