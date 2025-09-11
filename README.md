@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skdevindi&label=Profile%20views&color=0e75b6&style=flat" alt="skdevindi" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java, python, react.js,java script, flutter**
 
 - 📫 How to reach me **shamakaveesha@gmail.com**
 
