@@ -1,25 +1,102 @@
-<h1 align="center">Hi 👋, I'm Kaveesha Devindi</h1>
-<h3 align="center">Undergraduate| Faculty of Computing| Sabaragamuwa University of Sri Lanka Aspiring Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skdevindi&label=Profile%20views&color=0e75b6&style=flat" alt="skdevindi" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skdevindi" alt="skdevindi" /></a> </p>
+# Hi there! 👋 I'm Kaveesha Devindi
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 🎓 Computing & Information Systems Undergraduate
+### 💼 Aspiring Technical Business Analyst | Software & Data Enthusiast
 
-- 🌱 I’m currently learning **Java, python, java script, react.js,node.js, Figma**
+<img src="https://komarev.com/ghpvc/?username=SKdevindi&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 
-- 📫 How to reach me **shamakaveesha@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devindi-samaravickrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devindi-samaravickrama" height="30" width="40" /></a>
-<a href="https://fb.com/devindi.samaravickrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devindi.samaravickrama" height="30" width="40" /></a>
-<a href="https://instagram.com/devindi_samaravickrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devindi_samaravickrama" height="30" width="40" /></a>
-<a href="https://medium.com/@shamakaveesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shamakaveesha" height="30" width="40" /></a>
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Undergraduate at **Sabaragamuwa University of Sri Lanka**
+- 🎯 Aspiring **Technical Business Analyst**
+- 💡 Interested in **Business Analysis, Software Engineering & Data Analytics**
+- 🌱 Currently learning **SQL, Python, JavaScript, React & Business Analysis**
+- 📊 Exploring **Requirements Engineering, UML, Process Modeling & Data Visualization**
+- 🚀 Building practical projects to improve my technical and analytical skills
+- 📫 Email: **shamakaveesha@gmail.com**
+
+---
+
+## 🛠️ Technical Skills & Tools
+
+### 💻 Programming & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,react,nodejs,flutter" alt="Programming Skills"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 🗄️ Databases
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skdevindi&show_icons=true&locale=en&layout=compact" alt="skdevindi" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"/>
+</p>
+
+### 🎨 Design & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode" alt="Tools"/>
+</p>
+
+### 📊 Business Analysis Skills
+
+- Requirements Gathering & Analysis
+- User Stories & Acceptance Criteria
+- UML Diagrams & Use Case Modeling
+- Business Process Modeling
+- SQL & Database Analysis
+- Software Documentation
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 SmartBiz 360 – Business Management System
+A business analysis-focused case study covering business requirements, process modeling, user stories, system workflows, and solution design.
+
+**Focus:** Business Analysis | Requirements Engineering | UML | SQL
+
+*Project in progress*
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKdevindi&layout=compact&theme=tokyonight" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/devindi-samaravickrama">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:shamakaveesha@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://medium.com/@shamakaveesha">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### ✨ Learning • Building • Growing ✨
+
+</div>
+
